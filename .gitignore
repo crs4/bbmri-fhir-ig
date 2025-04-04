@@ -6,3 +6,11 @@
 validator.jar
 SUSHI-GENERATED-FILES.md
 ./fsh-generated 
+*.bat
+bbmri.deTemplate/content/.index.db
+bbmri.deTemplate/content/assets/.index.db
+bbmri.deTemplate/content/assets/css/.index.db
+bbmri.deTemplate/content/assets/images/.index.db
+bbmri.deTemplate/includes/.index.db
+bbmri.deTemplate/package/.index.db
+*.jar
