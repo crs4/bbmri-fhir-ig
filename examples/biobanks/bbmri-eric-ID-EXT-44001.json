@@ -1,0 +1,68 @@
+{
+  "entry": [
+    {
+      "request": {
+        "method": "PUT",
+        "url": "Organization/bbmri-eric-ID-EXT-44001"
+      },
+      "resource": {
+        "id": "bbmri-eric-ID-EXT-44001",
+        "meta": {
+          "profile": [
+            "https://fhir.bbmri.de/StructureDefinition/Biobank"
+          ]
+        },
+        "extension": [
+          {
+            "url": "https://fhir.bbmri.de/StructureDefinition/OrganizationDescription",
+            "valueString": "The National Rare Disease Biobank collects and stores biological samples of people affected by rare diseases, relatives and controls. Its mission is to support national and international research. These samples are available for research, both etiologic and preventive aspects, as oriented to the search for new treatments and prognostic factors.\nThe National Rare Disease Biobank offers the following services:\n\nProcessing of biological samples\nStorage of samples and data associated with the National Registry of Rare\u00a0\u00a0 Diseases\nStorage of samples and data associated with the Registry of Autism Spectrum Disorders\nProvision of samples for research projects by investigators\nAccess to sample collections of the European network Eurobiobank\nAccess to sample collections of other European biobanks"
+          }
+        ],
+        "contact": [
+          {
+            "name": {},
+            "purpose": {
+              "coding": [
+                {
+                  "code": "RESEARCH",
+                  "system": "http://terminology.hl7.org/CodeSystem/contactentity-type"
+                }
+              ]
+            },
+            "telecom": [
+              {
+                "system": "email",
+                "value": "mposada@isciii.es"
+              }
+            ]
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://www.bbmri-eric.eu/",
+            "value": "bbmri-eric:ID:EXT_44001"
+          }
+        ],
+        "name": "Biobank of the Institute of Rare Diseases Research/Institute of Health Carlos III (IIER-ISCIII)",
+        "telecom": [
+          {
+            "system": "url",
+            "value": "http://bioner.isciii.es"
+          }
+        ],
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "Biobank"
+              }
+            ]
+          }
+        ],
+        "resourceType": "Organization"
+      }
+    }
+  ],
+  "type": "transaction",
+  "resourceType": "Bundle"
+}
