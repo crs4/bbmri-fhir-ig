@@ -44,27 +44,11 @@
         "dateTime": "2025-04-28T00:00:00Z",
         "provision": {
           "type": "deny",
-          "data": [
+          "class": [
             {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-FuJVxLPMHV",
-                "display": "Specimen/urn-test-spec-FuJVxLPMHV"
-              },
-              "meaning": "instance"
-            },
-            {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                "display": "Specimen/urn-test-spec-xdszCfpASX"
-              },
-              "meaning": "instance"
-            },
-            {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-sVIwPWiACF",
-                "display": "Specimen/urn-test-spec-sVIwPWiACF"
-              },
-              "meaning": "instance"
+              "system": "http://hl7.org/fhir/resource-types",
+              "code": "Specimen",
+              "display": "Specimen"
             }
           ],
           "period": {
@@ -83,8 +67,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },
@@ -122,8 +106,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },
@@ -161,8 +145,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 }
@@ -193,8 +177,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },
@@ -232,8 +216,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },
@@ -271,8 +255,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },
@@ -310,8 +294,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },
@@ -349,8 +333,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },
@@ -388,8 +372,8 @@
                 },
                 {
                   "reference": {
-                    "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                    "display": "Specimen/urn-test-spec-xdszCfpASX"
+                    "reference": "Specimen/urn-test-spec-xkUZygGXmV",
+                    "display": "Specimen/urn-test-spec-xkUZygGXmV"
                   },
                   "meaning": "instance"
                 },

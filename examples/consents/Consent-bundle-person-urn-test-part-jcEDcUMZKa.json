@@ -44,23 +44,13 @@
         "dateTime": "2025-04-24T00:00:00Z",
         "provision": {
           "type": "deny",
-          "data": [
+          "class": [
             {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-exaoTuGMXt",
-                "display": "Specimen/urn-test-spec-exaoTuGMXt"
-              },
-              "meaning": "instance"
-            },
-            {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-xdszCfpASX",
-                "display": "Specimen/urn-test-spec-xdszCfpASX"
-              },
-              "meaning": "instance"
+              "system": "http://hl7.org/fhir/resource-types",
+              "code": "Specimen",
+              "display": "Specimen"
             }
-          ],
-          "period": {
+          ],          "period": {
             "start": "2025-04-24T00:00:00Z"
           },
           "provision": [

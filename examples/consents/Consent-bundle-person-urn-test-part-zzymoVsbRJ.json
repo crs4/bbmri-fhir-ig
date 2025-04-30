@@ -44,34 +44,11 @@
         "dateTime": "2025-04-23T00:00:00Z",
         "provision": {
           "type": "deny",
-          "data": [
+          "class": [
             {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-feUDyJlVFS",
-                "display": "Specimen/urn-test-spec-feUDyJlVFS"
-              },
-              "meaning": "instance"
-            },
-            {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-bZXYAtlgQb",
-                "display": "Specimen/urn-test-spec-bZXYAtlgQb"
-              },
-              "meaning": "instance"
-            },
-            {
-              "reference": {
-                "reference": "Specimen/urn-test-spec-oLWTnHcFuh",
-                "display": "Specimen/urn-test-spec-oLWTnHcFuh"
-              },
-              "meaning": "instance"
-            },
-            {
-              "reference": {
-                "reference":"Specimen/urn-test-spec-gDLWNjYtln",
-                "display":"Specimen/urn-test-spec-gDLWNjYtln"
-              },
-              "meaning": "instance"
+              "system": "http://hl7.org/fhir/resource-types",
+              "code": "Specimen",
+              "display": "Specimen"
             }
           ],
           "period": {
