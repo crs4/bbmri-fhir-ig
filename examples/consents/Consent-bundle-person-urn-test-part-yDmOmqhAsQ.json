@@ -42,6 +42,14 @@
           "reference": "Organization/bbmri-eric-ID-EXT-44001-collection-MainCollection"
         }],
         "dateTime": "2005-06-17T00:00:00Z",
+        "policyRule": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+              "code": "OPTIN"
+            }
+          ]
+        },
         "provision": {
           "type": "deny",
           "class": [
