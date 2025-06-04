@@ -46,5 +46,8 @@ BodyHeight and BodyWeight may be used to calculate the appropriate value for BMI
 ### [Specimen](StructureDefinition-Specimen.html)
 Contains information related to a sample.
 
+### [Consent](StructureDefinition-Consent.html)
+Contains information about the specific Consent(s) provided by the patient for archiving of the specimens inside a specific biobank and for conditions of (re)usage of the specimens for research purposes.
+
 If you use collections at your biobank, you need to add a reference to the collection to the sample. This is done via Speciman &rarr; extension &rarr; custodian.
 
