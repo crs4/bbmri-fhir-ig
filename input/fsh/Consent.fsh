@@ -1,20 +1,20 @@
 Invariant: top-provision-class-required
 Description: "Top-level provision must have at least one class."
 Severity:    #error
-Expression: "provision.exists() implies provision.class.exists()"
-XPath: "exists(provision) and exists(provision.class)"
+Expression: "class.exists()"
+XPath: "exists(f:class)"
 
 Invariant: inner-provision-type-required
 Description: "Inner-level provision must have type attribute valued (permit|deny)."
 Severity:    #error
-Expression: "provision.provision.type.exists()"
-XPath: "exists(provision.provision.type)"
+Expression: "type.exists()"
+XPath: "exists(f:type)"
 
 Invariant: inner-provision-code-required
 Description: "Inner-level provision must have code attribute valued."
 Severity:    #error
-Expression: "provision.provision.code.exists()"
-XPath: "exists(provision.provision.code)"
+Expression: "code.exists()"
+XPath:  "exists(f:code)"
 
 Profile: Consent
 Parent:  http://hl7.org/fhir/StructureDefinition/Consent
