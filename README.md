@@ -16,7 +16,7 @@ folders contains the sources for the profiled consent resource and the related C
 and Valueset, defined to express the consent conditions. 
 
 ## Deployment
-Th profile can be deployed through the usage of the [Sushi](https://github.com/FHIR/sushi) tool and the [FHIR scripts](https://github.com/HL7/ig-publisher-scripts) that generate
+The profile can be deployed through the usage of the [Sushi](https://github.com/FHIR/sushi) tool and the [FHIR scripts](https://github.com/HL7/ig-publisher-scripts) that generate
 the profile website. 
 With Sushi tool installed, from the root of this project, do:
 
@@ -29,6 +29,12 @@ downloaded the scripts from the FHIR IG publisher repository, you can generate t
 ```
 ./genonce.sh
 ```
+
+## Acknowledgments
+This work has been partially funded by the following sources: 
+
+ - the “Total Patient Management” (ToPMa) project (grant by the Sardinian Regional Authority, grant number RC_CRP_077). Intervento finanziato con risorse FSC 2014-2020 - Patto per lo Sviluppo della Regione Sardegna;
+ - the “Processing, Analysis, Exploration, and Sharing of Big and/or Complex Data” (XDATA) project (grant by the Sardinian Regional Authority).
 
 
 
