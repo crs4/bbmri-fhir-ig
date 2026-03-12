@@ -18,10 +18,10 @@ dependencies:
     version: 0.9.6
 parameters:
   show-inherited-invariants: false
-  path-binary: input/other
+  #  path-binary: input/other
 copyrightYear: 2020+
 releaseLabel: CI Build
-path-binary: input/other
+#path-binary: input/other
 
 # ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
 # │  To use a provided ig-data/input/includes/menu.xml file, delete the "menu" property below.     │
