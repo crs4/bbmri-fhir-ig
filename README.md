@@ -38,7 +38,8 @@ This work has been partially funded by the following sources:
 
 
 ## How to cite
-Please use the following to cite this work:
+If you use this work in your research, please cite the relevant paper:
 
-Sulis, Alessandro and Mascia, Cecilia and Delussu, Giovanni and Casati, Sara and Pallocca, Matteo and Fragnito, Davide and Mellone, Sabato and Lavitrano, Marialuisa and Pireddu, Luca and Frexia, Francesca. A FHIR Consent Profile for European Research Biobanks. 2026. DOI: 10.3233/SHTI260409
+> Sulis, Alessandro and Mascia, Cecilia and Delussu, Giovanni and Casati, Sara and Pallocca, Matteo and Fragnito, Davide and Mellone, Sabato and Lavitrano, Marialuisa and Pireddu, Luca and Frexia, Francesca. A FHIR Consent Profile for European Research Biobanks. 2026. DOI: [10.3233/SHTI260409](https://doi.org/10.3233/SHTI26040).
 
+Full citation metadata is provided in the [CITATION.CFF](./CITATION.CFF) file.

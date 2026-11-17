@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: If you use this work, please cite the relevant paper.
+preferred-citation:
+  abstract: >-
+    <jats:p>Digital dynamic consent is a key element to improve the involvement
+    of participants as proactive partners in research and requires the adoption
+    of standard-based information models to support data reuse. In this work we
+    present the HL7 FHIR Consent Profile we developed to integrate individual
+    consent preferences on biobanked samples and relative information within the
+    infrastructure of the the Biobanking and BioMolecular Resources European
+    Research Infrastructure Consortium (BBMRI-ERIC). The Profile builds on the
+    official HL7 FHIR Consent Resource and adopts the Common Condition of use
+    Elements (CCE) terminology to express the participants’ wills. A preliminary
+    evaluation on a minimally optimized setup suggests that using the Profile’s
+    attributes in queries adds no significant performance overhead. The current
+    version of the Profile is available online, together with a suite of
+    demonstrative tools, and will be implemented for validation in the final
+    prototype of a wider pilot of the Italian Node of BBMRI-ERIC within the
+    Strengthening BBMRI.it Project.</jats:p>
+  authors:
+    - family-names: Sulis
+      given-names: Alessandro
+      orcid: https://orcid.org/0000-0002-5110-2950
+    - family-names: Mascia
+      given-names: Cecilia
+      orcid: https://orcid.org/0000-0002-8952-725X
+    - family-names: Delussu
+      given-names: Giovanni
+      orcid: https://orcid.org/0000-0002-1023-2257
+    - family-names: Casati
+      given-names: Sara
+      orcid: https://orcid.org/0000-0002-9971-9706
+    - family-names: Pallocca
+      given-names: Matteo
+      orcid: https://orcid.org/0000-0002-7756-3579
+    - family-names: Fragnito
+      given-names: Davide
+      orcid: https://orcid.org/0000-0003-4638-564X
+    - family-names: Mellone
+      given-names: Sabato
+      orcid: https://orcid.org/0000-0001-7688-0188
+    - family-names: Lavitrano
+      given-names: Marialuisa
+      orcid: https://orcid.org/0000-0003-4852-1318
+    - family-names: Pireddu
+      given-names: Luca
+      orcid: https://orcid.org/0000-0002-4663-5613
+    - family-names: Frexia
+      given-names: Francesca
+      orcid: https://orcid.org/0000-0003-1007-1286
+  doi: 10.3233/shti260409
+  identifiers:
+    - type: doi
+      value: 10.3233/shti260409
+    - type: url
+      value: http://dx.doi.org/10.3233/SHTI260409
+    - type: other
+      value: urn:isbn:9781643686615
+    - type: other
+      value: urn:issn:0926-9630
+  title: A FHIR Consent Profile for European Research Biobanks
+  url: http://dx.doi.org/10.3233/SHTI260409
+  database: Crossref
+  date-published: 2026-05-21
+  year: 2026
+  month: 5
+  isbn: '9781643686615'
+  issn: 0926-9630
+  journal: Studies in Health Technology and Informatics
+  publisher:
+    name: IOS Press
+  type: generic
