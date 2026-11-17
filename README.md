@@ -37,4 +37,8 @@ This work has been partially funded by the following sources:
  - the “Processing, Analysis, Exploration, and Sharing of Big and/or Complex Data” (XDATA) project (grant by the Sardinian Regional Authority).
 
 
+## How to cite
+Please use the following to cite this work:
+
+Sulis, Alessandro and Mascia, Cecilia and Delussu, Giovanni and Casati, Sara and Pallocca, Matteo and Fragnito, Davide and Mellone, Sabato and Lavitrano, Marialuisa and Pireddu, Luca and Frexia, Francesca. A FHIR Consent Profile for European Research Biobanks. 2026. DOI: 10.3233/SHTI260409
 
