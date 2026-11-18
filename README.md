@@ -35,6 +35,8 @@ This work has been partially funded by the following sources:
 
  - the “Total Patient Management” (ToPMa) project (grant by the Sardinian Regional Authority, grant number RC_CRP_077). Intervento finanziato con risorse FSC 2014-2020 - Patto per lo Sviluppo della Regione Sardegna;
  - the “Processing, Analysis, Exploration, and Sharing of Big and/or Complex Data” (XDATA) project (grant by the Sardinian Regional Authority).
+ - the “Strengthening BBMRI.it" project (funded by Next Generation EU – Italian NRRP IR0000031 – CUP B53C22001820006).
+
 
 
 ## How to cite
